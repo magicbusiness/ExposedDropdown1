@@ -1,0 +1,9 @@
+To Use Exposed Dropdown
+1. Make Fragment for TextInputLayout
+2. Replace TextInputEditText with autoCompleteTextView
+3. Then add command style in autoCompleteTextView and choose exposed what you want, 
+    then add inputType to "none" also make String-Array in file strings
+4. Next make string array layout and adapter
+5. Then Implement Fragment in MainActivity
+
+Note: For using this component, first don't change (parent theme)
