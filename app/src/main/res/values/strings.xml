@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Exposed Dropdown</string>
+    <string name="english">English</string>
+
+    <!--  Array String  -->
+    <string-array name="language">
+        <item>English</item>
+        <item>Indonesia</item>
+        <item>Japan</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sample">Sample</string>
+    <string name="languages">Languages</string>
+    <string name="cant_use_custom_button">Cant use Custom Button</string>
+    <string name="also_gradient_color">Also Gradient Color</string>
+</resources>
